@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Gaurav!
+### Hi there 👋, I'm Gaurav!
 #### A software engineer specializing in frontend web Development
 
 Skills: Angular, Redux, TypeScript, SASS
